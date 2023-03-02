@@ -12,7 +12,7 @@ class Grid2 extends StatelessWidget {
             alignment: Alignment.topLeft,
             child: Padding(
               padding: EdgeInsets.all(8.0),
-              child: Text('Mobile Offers',
+              child: Text('Mobile Offers <3',
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
             )),
         SizedBox(
