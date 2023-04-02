@@ -34,7 +34,7 @@ class TopSelection extends StatelessWidget {
                     image: DecorationImage(
                         fit: BoxFit.cover,
                         image: NetworkImage(
-                            'https://www.prodirectselect.com/productimages/V3_1_Gallery_1/95099_Gallery_1_0564205.jpg?imwidth=768'))),
+                            'https://hardwareheaven.ie/wp/wp-content/uploads/2017/01/spin-mop-set.jpg'))),
                 child: Column(
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: const <Widget>[
@@ -42,7 +42,7 @@ class TopSelection extends StatelessWidget {
                         padding: EdgeInsets.only(left: 5),
                         child: Align(
                             alignment: Alignment.bottomLeft,
-                            child: Text('Adidas Superstar')),
+                            child: Text('Mop Set')),
                       ),
                       Padding(
                         padding: EdgeInsets.only(left: 5, top: 5, bottom: 3),
